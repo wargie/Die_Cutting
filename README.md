@@ -11,3 +11,7 @@ _Каждый лист в файле имеет наименование, соо
 
 `Current version: 1.03 - 14-04-2022`
 - add diecut № 087R - sprcial figure
+
+`Current version: 1.04 - 24-04-2022`
+- add some diecuts for NilPeter and Lesko
+- fixed bugs
