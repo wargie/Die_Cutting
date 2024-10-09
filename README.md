@@ -50,3 +50,7 @@
 - 389R - final diecut for Nilpeter and small Lesko
 - add a new section with figure cuts
 - add a new section with perforation cuts
+
+`Curren version: 1.19 - 09-10-2024`
+- add some figure cuts
+- add new regular cuts
