@@ -54,3 +54,9 @@
 `Curren version: 1.19 - 09-10-2024`
 - add some figure cuts
 - add new regular cuts
+
+`Curren version: 1.23 - 10-02-2026`
+
+- add cuts for Nillpeter
+- add cut for Markandy
+- fix logics
