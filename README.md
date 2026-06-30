@@ -60,3 +60,11 @@
 - add cuts for Nillpeter
 - add cut for Markandy
 - fix logics
+
+`Current version: 1.24 - 30-06-2026`
+
+- add diecuts 001LS-013LS for Label Source
+- add diecuts No. 031 and No. 032 for Lesko
+- add diecut 015MA for MarkAndy
+- add diecuts 407R-419R for Nilpeter - Small Lesko
+- update Excel catalog with added diecuts
